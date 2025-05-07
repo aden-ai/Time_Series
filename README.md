@@ -18,4 +18,4 @@ Perform Time Series Analysis.
 
 Select LSTM or Prophet for stock price prediction.
 
-Live Demo :  Predictify - Streamlit App
+Live Demo :  https://predictify.streamlit.app/
